@@ -1,5 +1,4 @@
-# GitFlowExample
-
+## Git
 ### 什么是Git
 Git是一个开源的分布式版本控制系统
 [http://www.runoob.com/git/git-tutorial.html](http://www.runoob.com/git/git-tutorial.html)
@@ -22,10 +21,15 @@ Hotfix
 Sourcetree 下载地址 [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 ### 操作
-1. 实现功能A
+1. 实现功能A A
 2. 实现功能B
 3. 发布版本v1.0.0
 4. 修复漏洞
 
+## 倍洽 bearychat
+[https://bearychat.com/](https://bearychat.com/)
 
-v0.0.1
+## Tower
+[https://tower.im/](https://tower.im/)
+
+v1.0.0
