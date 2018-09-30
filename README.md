@@ -32,4 +32,4 @@ Sourcetree 下载地址 [https://www.sourcetreeapp.com/](https://www.sourcetreea
 ## Tower
 [https://tower.im/](https://tower.im/)
 
-v0.0.1
+v1.0.0
