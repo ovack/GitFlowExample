@@ -24,7 +24,7 @@ Sourcetree 下载地址 [https://www.sourcetreeapp.com/](https://www.sourcetreea
 1. 实现功能A A
 2. 实现功能B
 3. 发布版本v1.0.0
-4. 修复漏洞
+4. 修复漏洞修复漏洞
 
 ## 倍洽 bearychat
 [https://bearychat.com/](https://bearychat.com/)
