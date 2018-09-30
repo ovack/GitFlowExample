@@ -21,7 +21,7 @@ Hotfix
 Sourcetree 下载地址 [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 ### 操作
-1. 实现功能A
+1. 实现功能A A
 2. 实现功能B
 3. 发布版本v1.0.0
 4. 修复漏洞
